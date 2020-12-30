@@ -1,0 +1,20 @@
+	Welcome to Webcode Retail
+ Bill No. : 4112
+ Customer Name: Anshal Aggarwal
+ Phone Number: 9876549847
+ ====================================
+ Products		 QTY	Price
+ ====================================
+ Bath soap		1		40
+ Face Cream		1		120
+ Face Wash		1		60
+ Food Oil		1		120
+ Sugar		1		140
+ Maza		1		300
+ Thumbs Up		5		225
+ -----------------------------------
+ Cosmetic Tax					Rs. 11.0
+ Grocery Tax					Rs. 26.0
+ Cold Drink Tax					Rs. 26.25
+ Total Bill : 					1068.25
+ ------------------------------------
